@@ -1,0 +1,3 @@
+# LiteOS_for_STM32
+LiteOS for STM32F401RET6
+移植了OpenHarmony的LiteOS-m内核到STM32F401RET6飞控板上，目前尚未移植飞控板驱动程序
